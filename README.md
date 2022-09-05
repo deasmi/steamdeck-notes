@@ -1,7 +1,9 @@
 Steam Deck Notes
 ================
 
-This is Linux, but it isn't your father/grandfathers Linux. It certainly isn't an Ubuntu/Fedora even proper arch Linux which it's based on.
+This is Linux, but it isn't your father/grandfathers Linux. It certainly isn't an Ubuntu/Fedora even proper Arch Linux which it's based on. First major difference, you cannot use the inbuilt package manger (pacman) at all.
+
+All additional software has to be installed as flatpacks.
 
 In a lot of ways this is an appliance like a router running Linux, it has a read only OS, with two versions to allow seamless upgrades and it you leave it alone it'll act like any other console. Turn it on, play games, done.
 
@@ -52,5 +54,7 @@ So, what can you do ? And how likely to go wrong is it (L/M/H/C(ertain) ?
 - Steam ROM Manager (L)
   - Nice, works well to add any/all emulators and games to Steam
   - I am only adding Emulation Station and a Few emulators as I don't want 4000 SNES games in Steam
-  - I may add Amiga games to steam as they need custom control layout and I have a nice curated set
-  
+  - I may add Amiga games to steam as they need custom control layouts and I have a nice curated set
+- User PATH variable
+  - flatpak makes this 'interesting' and by 'interesting' I mean a right royal pain.
+  - Who wants to type org.gnu.emacs instead of emacs, because that's how you need to call it. 
