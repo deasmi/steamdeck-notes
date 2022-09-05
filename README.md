@@ -31,26 +31,26 @@ If you don't break the seal you can still get into a mess, but it's a local mess
 
 So, what can you do ? And how likely to go wrong is it (L/M/H/C(ertain) ?
 
-. Install extra desktop software from the store (L)
-. Use it as a desktop, sync your Firefox/chrome settings (L)
-. Use Heroic game launcher to install GOG/Epic (M)
-  . GOG works well, Witcher 3 and Cyberpunk running OK, but without Steam shaders
-  . EPIC is a shit show, well won't run RDR2 and that's all I care about
-. Use Lutris to install games/game stores (L)
-  . These are self contained in a single directory. You will have one launcher install per game (~200M) so will have to logon separately
-  . All wine settings for launcher and game are independent of other games
-. Manually install Origin/GOG/Epic (M/H)
+- Install extra desktop software from the store (L)
+- Use it as a desktop, sync your Firefox/chrome settings (L)
+- Use Heroic game launcher to install GOG/Epic (M)
+  - GOG works well, Witcher 3 and Cyberpunk running OK, but without Steam shaders
+  - EPIC is a shit show, well won't run RDR2 and that's all I care about
+- Use Lutris to install games/game stores (L)
+  - These are self contained in a single directory. You will have one launcher install per game (~200M) so will have to logon separately
+  - All wine settings for launcher and game are independent of other games
+- Manually install Origin/GOG/Epic (M/H)
   - See YouTube, rabbit hole, things end up wherever the youtuber thought best.
-. Use Boilr to import manual Origin/GOG/Epic games into Steam (L)
-. Get steamgrid SGDBOOP working to manage artwork (C)
-  . https://github.com/SteamGridDB/SGDBoop/issues/25 - open issue
-. Install and run tailscale (M)
-  . Jury out, having cloud sync issues, but could be local network issue
-. emudeck (L/M)
-  . emudeck plays fast and loose with things, and it's a 'please run this random url into bash as root.....' so bad.
-  . I will maybe remove and move to RetroDeck
-. Steam ROM Manager (L)
-  . Nice, works well to add any/all emulators and games to Steam
-  . I am only adding Emulation Station and a Few emulators as I don't want 4000 SNES games in Steam
-  . I may add Amiga games to steam as they need custom control layout and I have a nice curated set
+- Use Boilr to import manual Origin/GOG/Epic games into Steam (L)
+- Get steamgrid SGDBOOP working to manage artwork (C)
+  - https://github.com/SteamGridDB/SGDBoop/issues/25 - open issue
+- Install and run tailscale (M)
+  - Jury out, having cloud sync issues, but could be local network issue
+- emudeck (L/M)
+  - emudeck plays fast and loose with things, and it's a 'please run this random url into bash as root.....' so bad.
+  - I will maybe remove and move to RetroDeck
+- Steam ROM Manager (L)
+  - Nice, works well to add any/all emulators and games to Steam
+  - I am only adding Emulation Station and a Few emulators as I don't want 4000 SNES games in Steam
+  - I may add Amiga games to steam as they need custom control layout and I have a nice curated set
   
