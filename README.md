@@ -1,9 +1,9 @@
 Steam Deck Notes
 ================
 
-This is Linux, but it isn't your father/grandfathers linux. It certainlt isn't an Ubuntu/Fedora even proper arch linux which it's based on.
+This is Linux, but it isn't your father/grandfathers Linux. It certainly isn't an Ubuntu/Fedora even proper arch Linux which it's based on.
 
-In a lot of ways this is an appliance like a router running linux, it has a read only OS, with two versions to allow seamless upgrades and it you leave it alone it'll act like any other console. Turn it on, play games, done.
+In a lot of ways this is an appliance like a router running Linux, it has a read only OS, with two versions to allow seamless upgrades and it you leave it alone it'll act like any other console. Turn it on, play games, done.
 
 It does have a desktop mode, but just use it like a Windows/Linux desktop for browser, apps etc. and you are golden.
 
@@ -32,15 +32,15 @@ If you don't break the seal you can still get into a mess, but it's a local mess
 So, what can you do ? And how likely to go wrong is it (L/M/H/C(ertain) ?
 
 . Install extra desktop software from the store (L)
-. Use it as a desktop, sync your firefox/chrome settings (L)
+. Use it as a desktop, sync your Firefox/chrome settings (L)
 . Use Heroic game launcher to install GOG/Epic (M)
-  . GOG works well, Witcher 3 and Cyberpunk running ok, but without Steam shaders
+  . GOG works well, Witcher 3 and Cyberpunk running OK, but without Steam shaders
   . EPIC is a shit show, well won't run RDR2 and that's all I care about
 . Use Lutris to install games/game stores (L)
-  . These are self contained in a single directory. You will have one launcher install per game (~200M) so will have to logon seperately
+  . These are self contained in a single directory. You will have one launcher install per game (~200M) so will have to logon separately
   . All wine settings for launcher and game are independent of other games
 . Manually install Origin/GOG/Epic (M/H)
-  - See youtube, rabbit hole, things end up wherever the youtuber thought best.
+  - See YouTube, rabbit hole, things end up wherever the youtuber thought best.
 . Use Boilr to import manual Origin/GOG/Epic games into Steam (L)
 . Get steamgrid SGDBOOP working to manage artwork (C)
   . https://github.com/SteamGridDB/SGDBoop/issues/25 - open issue
@@ -51,6 +51,6 @@ So, what can you do ? And how likely to go wrong is it (L/M/H/C(ertain) ?
   . I will maybe remove and move to RetroDeck
 . Steam ROM Manager (L)
   . Nice, works well to add any/all emulators and games to Steam
-  . I am only adding Emulation Station and a Few emulators as I don't want 4000 snes games in Steam
+  . I am only adding Emulation Station and a Few emulators as I don't want 4000 SNES games in Steam
   . I may add Amiga games to steam as they need custom control layout and I have a nice curated set
   
