@@ -59,4 +59,10 @@ So, what can you do ? And how likely to go wrong is it (L/M/H/C(ertain) ?
   - I may add Amiga games to steam as they need custom control layouts and I have a nice curated set
 - User PATH variable
   - flatpak makes this 'interesting' and by 'interesting' I mean a right royal pain.
-  - Who wants to type org.gnu.emacs instead of emacs, because that's how you need to call it. 
+  - Who wants to type org.gnu.emacs instead of emacs, because that's how you need to call it.
+
+Amiga Roms
+----------
+
+Glob pattern is 
+`**/${title}_*@(.adf|.ADF|.adz|.ADZ|.dms|.DMS|.fdi|.FDI|.ipf|.IPF|.hdf|.HDF|.hdz|.HDZ|.lha|.LHA|.slave|.SLAVE|.info|.INFO|.cue|.CUE|.ccd|.CCD|.chd|.CHD|.nrg|.NRG|.mds|.MDS|.iso|.ISO|.uae|.UAE|.m3u|.M3U|.zip|.ZIP|.7z|.7Z)`
